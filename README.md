@@ -1,6 +1,6 @@
 # DGAN
 
-This is PyTorch implementation for [Deep Guided Attention Network for Joint Denoising and Demosaicing in Real Image](https://cje.ejournal.org.cn/en/article/doi/10.23919/cje.2022.00.414), Chinese Journal of Electronics, by Tao Zhang, Ying Fu and Jun Zhang.
+This is PyTorch implementation for [Deep Guided Attention Network for Joint Denoising and Demosaicing in Real Image](https://cje.ejournal.org.cn/en/article/doi/10.23919/cje.2022.00.414), Chinese Journal of Electronics 2024, by Tao Zhang, Ying Fu and Jun Zhang.
 
 ## Introduction
 In this work, we propose a deep guided attention network for real image joint denoising and demosaicing, which considers the high signal-to-noise ratio and high sampling rate of green information for denoising and demosaicing, respectively.
