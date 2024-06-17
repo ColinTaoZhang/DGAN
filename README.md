@@ -4,7 +4,9 @@ This is PyTorch implementation for [Deep Guided Attention Network for Joint Deno
 
 ## Introduction
 In this work, we propose a deep guided attention network for real image joint denoising and demosaicing, which considers the high signal-to-noise ratio and high sampling rate of green information for denoising and demosaicing, respectively.
+<div align='center'>
 <img src="https://github.com/ColinTaoZhang/DGAN/blob/main/E220414-1.jpg" alt="alt text" style="width:500px; height:auto;">
+</div>
 
 ## Highlights
 * We present a deep guided attention network for real image JDD, that effectively considers the green channel characteristics of high SNR and high sampling rate in raw data.
