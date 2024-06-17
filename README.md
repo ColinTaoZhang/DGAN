@@ -31,6 +31,7 @@ python train_JDD.py
 python test_JDD.py
 ```
 ## Citation
+If you find this work useful for your research, please cite:
 ```
 @articleInfo{zhang2024DGAN,
 title = "Deep Guided Attention Network for Joint Denoising and Demosaicing in Real Image",
