@@ -11,7 +11,7 @@ In this work, we propose a deep guided attention network for real image joint de
 ## Highlights
 * We present a deep guided attention network for real image JDD, that effectively considers the green channel characteristics of high SNR and high sampling rate in raw data.
 <div align='center'>
-  <img src="https://github.com/ColinTaoZhang/DGAN/blob/main/E220414-2.jpg" alt="alt text" style="width:700px; height:auto;">
+  <img src="https://github.com/ColinTaoZhang/DGAN/blob/main/E220414-2.jpg" alt="alt text" style="width:1000px; height:auto;">
 </div>
 
 * We propose a guided attention module to adaptively guide RGB image restoration by the information in green channel recovery branch.
