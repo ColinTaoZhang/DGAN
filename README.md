@@ -21,4 +21,14 @@ In this work, we propose a deep guided attention network for real image joint de
 
 * We collect a real raw JDD dataset with paired noisy mosaic, clean mosaic and clean full color RGB images, and utilize a decomposition-and-combination training strategy to make the trained network more practical to the real data.
 
+## Usage
+* Training
+```
+python train_denoising.py
+python train_JDD.py
+```
 
+* Testing
+```
+python test_JDD.py
+```
