@@ -19,8 +19,6 @@ In this work, we propose a deep guided attention network for real image joint de
   <img src="https://github.com/ColinTaoZhang/DGAN/blob/main/E220414-3.jpg" alt="alt text" style="width:500px; height:auto;">
 </div>
 
-* We collect a real raw JDD dataset with paired noisy mosaic, clean mosaic and clean full color RGB images, and utilize a decomposition-and-combination training strategy to make the trained network more practical to the real data.
-
 ## Usage
 * Training
 ```
@@ -32,3 +30,13 @@ python train_JDD.py
 ```
 python test_JDD.py
 ```
+## Citation
+```
+@articleInfo{zhang2024DGAN,
+title = "Deep Guided Attention Network for Joint Denoising and Demosaicing in Real Image",
+journal = "Chinese Journal of Electronics",
+volume = "33",
+number = "E220414,
+pages = "303",
+year = "2024"
+}
